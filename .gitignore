@@ -1,0 +1,9 @@
+.env
+__pycache__/
+node_modules/
+dist/
+*.pyc
+backend/app/data/cache/
+backend/runs/
+.claude/
+xiaohongshu.md
